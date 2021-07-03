@@ -56,7 +56,9 @@ which returns
 where ```-rwxr-xr-x``` stands for permission string. The first character in the string ```-``` tells
 if it is a file (```-```) or a directory (```d```). The next three tells the permission granted of the file (R stands for read, W stands for write and X stands for execute). The next three presents the permission granted to a group of a file and the last three represetns the permissions that everyone else on the system as to this file. By the way, you can tell who is the owner of the file and then what group the file (```... dangnguyen dangnguyen ...```) belongs to by looking at this ```ls``` output.
 
+-------------------------=================================================-----------------------------------
 
+### Shell Builtin Commands
 
 
 
