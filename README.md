@@ -15,6 +15,9 @@ For Debian based Linux distribution, Ubuntu
 ```bash
 sudo apt-get install -y nano
 ```
+
+-------------------------------
+
 ### Create a first script
 ```bash
 nano day1.sh
