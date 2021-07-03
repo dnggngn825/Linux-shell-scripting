@@ -13,11 +13,11 @@ Executing a shell script produces the exact same result as you typing in each li
 ### Install Nano
 For Debian based Linux distribution, Ubuntu
 ```bash
-$ sudo apt-get install -y nano
+sudo apt-get install -y nano
 ```
 ### Create a first script
 ```bash
-$ nano day1.sh
+nano day1.sh
 ```
 
 Then just type in the content in the script, hit ```Ctrl + X``` to save change and hit ```Y```
