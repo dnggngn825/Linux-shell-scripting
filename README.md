@@ -66,5 +66,12 @@ if it is a file (```-```) or a directory (```d```). The next three tells the per
 
 
 
+-------------------------------------------------------------------------------------
+### Variables, Comments, and capitalization
+
+
+-------------------------------------------------------------------------------------
+### Writing long and complicated scripts
+
 
 
