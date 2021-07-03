@@ -25,3 +25,11 @@ Then just type in the content in the script, hit ```Ctrl + X``` to save change a
 !#/bin/bash
 echo "Hello World"
 ```
+It will ask for filename, just press ```Enter``` and we will get our first script file. Now, to run the file
+```bash
+./day1.sh
+```
+which outputs
+```bash
+Hello World
+```
