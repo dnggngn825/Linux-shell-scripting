@@ -76,14 +76,18 @@ echo "I dont have to be great to start, but I have to start to be great!"
 ```
 
 > `#!`  is called *'shebang'*
+> 
 > whereas `/bin/bash` indicates for what program will execute the following commands in the file, else it will use the current one in the shell.
 
 *Note: It is very important since we don't know exactly what logged-in shell other people are using, and that may cause errors if they try to execute our script*
 
 
 > `.` means the current directory of the working space
+> 
 > `..` means the parent directory (one before the current)
+> 
 > `pwd` is short for *'present working directory'*
+> 
 ```bash
 dangnguyen@DangNguyenLap:~$ cd .
 dangnguyen@DangNguyenLap:~$ pwd
